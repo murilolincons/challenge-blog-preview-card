@@ -12,7 +12,7 @@ Este projeto consiste na construção de um Blog Preview Card, baseado em um des
 
 - Aplicar boas práticas frontend (HTML e CSS);
 
-- Possuir responsividade diferentes dispositivos (Desktop e Mobile)
+- Possuir responsividade diferentes dispositivos (Desktop e Mobile);
 
 - Implementar interação.
 
